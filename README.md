@@ -4,3 +4,5 @@
 - Used visualizing libraries - Matplotlib, Plotly and GeoPandas to produce about 15 visuals. 
 - Short-listed 10 visuals which included - Linear Regression model, Scatterplots, HeatMaps, Line Graphs, Stacked Bar Charts and Bar Plots to present the conclusions.
 - Combined the results along with conclusions in an HTML-based webpage.
+
+VIEW THE WEBSITE : https://aaru143.github.io/US_Arrested_Data_Analysis/
